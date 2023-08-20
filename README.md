@@ -3,7 +3,7 @@ In this project, based on the given parameters and operating conditions of a pow
 1. Steady-State Conduction with Convection in Tip.
 2. Steady-State Conduction with Insulated Tip.
 3. Unsteady-State Conduction with Convection in Tip.
-</br>
+
 For each condition, contour plot is obtained and included in the report (written in Persian).
 <br> <br>
 The simulation is done by applying Gauss-Seidel method and the concept of grids. Transient Numeric Method is also used in the second part of the project.
