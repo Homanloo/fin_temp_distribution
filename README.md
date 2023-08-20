@@ -9,7 +9,7 @@ For each condition, contour plot is obtained and included in the report (written
 The simulation is done by applying Gauss-Seidel method and the concept of grids. Transient Numeric Method is also used in the second part of the project.
 Finally, the results are compared to the Turbine Inlet Temperature (TIT) recommended by manufactures, and the design is then evaluated and possible fixes to the design is proposed.
 <br> <br>
-![image](https://github.com/Homanloo/fin_temp_distributiond/assets/118424174/77f30cd4-cdad-4973-acff-0bbf7f906e48)
+![temp_dist](https://github.com/Homanloo/fin_temp_distributiond/assets/118424174/ccb6d50c-891b-454a-a616-2668600cabfd)
 <br> <br>
 This project is done with the help of my friend, Matin Lashgari.
 The project was done as the final project for the course <b>Heat Transfer</b> instructed by <b>Prof. Shojaei</b>.
